@@ -1,4 +1,6 @@
 Dies ist eine kleine Website die ich zurzeit in der Freizeit am bearbeiten bin.
-Sie ist Hauptsächlich dafür gedacht CSS zu üben und mit der Materie "One-Pager" ein wenig zu spielen.
+Sie ist HauptsÃ¤chlich dafÃ¼r gedacht CSS zu Ã¼ben und mit der Materie "One-Pager" ein wenig zu spielen.
 Unter Ihrer Stellenbeschreibung stand, dass man in den Bereichen HTML / CSS / Javascript erfahrungen besitzen sollte,
-deswegen habe ich gedacht, dass mein aktuellstes Projekt am besten geeignet wäre zu zeigen, trotz der unvollständigkeit.
+deswegen habe ich gedacht, dass mein aktuellstes Projekt am besten geeignet wÃ¤re zu zeigen, trotz der unvollstÃ¤ndigkeit.
+
+EDIT: Die Dateien in den anderen Branches mÃ¼ssen in Ordner gepackt werden, damit die Seite voll funktionsfÃ¤hig ist.
