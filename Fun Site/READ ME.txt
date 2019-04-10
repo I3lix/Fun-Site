@@ -1,0 +1,4 @@
+Dies ist eine kleine Website die ich zurzeit in der Freizeit am bearbeiten bin.
+Sie ist Hauptsächlich dafür gedacht CSS zu üben und mit der Materie "One-Pager" ein wenig zu spielen.
+Unter Ihrer Stellenbeschreibung stand, dass man in den Bereichen HTML / CSS / Javascript erfahrungen besitzen sollte,
+deswegen habe ich gedacht, dass mein aktuellstes Projekt am besten geeignet wäre zu zeigen, trotz der unvollständigkeit.
