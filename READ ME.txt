@@ -3,4 +3,4 @@ Sie ist Hauptsächlich dafür gedacht CSS zu üben und mit der Materie "One-Page
 Unter Ihrer Stellenbeschreibung stand, dass man in den Bereichen HTML / CSS / Javascript erfahrungen besitzen sollte,
 deswegen habe ich gedacht, dass mein aktuellstes Projekt am besten geeignet wäre zu zeigen, trotz der unvollständigkeit.
 
-EDIT: Die Dateien in den anderen Branches müssen in Ordner gepackt werden, damit die Seite voll funktionsfähig ist.
+Das Einzige für die Website ist der "Fun-Site" Ordner, der Rest waren Tests.
